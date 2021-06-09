@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/gravity55/gravity55/main/my_name.svg" alt="Garvit Sharma" />
 </h1>
 
-## Hey! 👋
+<span style="font-family: 'Pacifico';">Hello</span>
+## Hey!  👋
 
 <!--
 **gravity55/gravity55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
