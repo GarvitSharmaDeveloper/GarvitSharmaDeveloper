@@ -17,7 +17,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the SRM Institute of Science and Technology.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Web Development through React.js and Data Structures.\
 ✍️ &nbsp;In my free time, I like to solve logical reasoning questions as hobbies/side hustles.\
-⚕️ &nbsp;I'm a Board Member at CovidYODHA. If you need any help in this Corona pandemic, contact me directly or through our [website](covidyodha.site).
+⚕️ &nbsp;I'm a Board Member at CovidYODHA. If you need any help in this Corona pandemic, contact me directly or through our [website](covidyodha.site).    
 💬 &nbsp;Feel free to reach out to me for any interesting tech discussion or any advice related to team management and sponsorship.\
 ✉️ &nbsp;You can shoot me an email at garvitsharma555@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/garvit-sharma-442749142/) for more details about me. I'm open to feedback and suggestions!
