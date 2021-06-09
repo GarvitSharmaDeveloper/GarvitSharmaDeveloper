@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
  
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gravity55/gravity55/main/my_name.svg" alt="Garvit Sharma" />
+  <img src="https://raw.githubusercontent.com/gravity55/gravity55/main/my_name.svg" alt="Hey, I'm Garvit Sharma" />
 </h1>
 
 ## Hey!  👋
