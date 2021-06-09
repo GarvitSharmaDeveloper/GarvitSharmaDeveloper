@@ -26,7 +26,26 @@
 ![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravity55&show_icons=true&theme=great-gatsby)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravity55)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
+<h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/c.svg"></code>
+  <code><img title="C++" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/cpp.svg"></code>
+  <code><img title="C#" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/python-original.svg"></code>
+  <code><img title="Javascript" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/css.svg"></code>
+  <code><img title="React" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/react-original.svg"></code>
+  <code><img title="Git" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/visualstudio.png"></code>
+  <code><img title="npm" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/npm.svg"></code>
+  <code><img title="PHP" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/php.svg"></code>
+  <code><img title="Flask" height="30" src="https://github.com/gravity55/gravity55/blob/main/images/flask.png"></code>
+</p>
+<hr>
 
 <!--
 **gravity55/gravity55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
