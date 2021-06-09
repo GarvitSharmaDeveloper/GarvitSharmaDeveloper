@@ -2,7 +2,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
  
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gravity55/gravity55/main/my_name.svg" alt="Hey, I'm Garvit Sharma" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Garvit Sharma....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
 ## Hey!  👋
