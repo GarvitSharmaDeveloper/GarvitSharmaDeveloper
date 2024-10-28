@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GarvitSharmaDeveloper&theme=dark)](https://git.io/streak-stats)
 
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvitSharmaDeveloper&show_icons=true&theme=great-gatsby)  
+<!--![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvitSharmaDeveloper&show_icons=true&theme=great-gatsby)  -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravity55)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
@@ -48,5 +48,5 @@
 </p>
 <hr>
 
-[![Garvit's github activity graph](https://activity-graph.herokuapp.com/graph?username=gravity55&theme=react-dark)](https://github.com/GarvitSharmaDeveloper/github-readme-activity-graph)
+[![Garvit's github activity graph](https://activity-graph.herokuapp.com/graph?username=GarvitSharmaDeveloper&theme=react-dark)](https://github.com/GarvitSharmaDeveloper/github-readme-activity-graph)
 
