@@ -22,8 +22,9 @@
 ✉️ &nbsp;You can shoot me an email at garvitsharma555@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/garvit-sharma-442749142/) for more details about me. I'm open to feedback and suggestions!
 
+<div style="text-align:center;">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GarvitSharmaDeveloper&hide_longest_streak=true&theme=dark)](https://git.io/streak-stats)
-
+</div>
 <!--![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvitSharmaDeveloper&show_icons=true&theme=great-gatsby)  -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravity55)](https://github.com/anuraghazra/github-readme-stats)-->
 
