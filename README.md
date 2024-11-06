@@ -14,9 +14,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/garvit._12/)
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the SRM Institute of Science and Technology.\
+🎓 &nbsp;I completed my BTech course with Computer Scienceand engineering at the SRM Institute of Science and Technology and currently working at Deloitte as Associate Solution Advisor.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Web Development through React.js and Data Structures.\
-✍️ &nbsp;In my free time, I like to solve logical reasoning questions as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I like to solve logical reasoning questions as hobbies/side hustles and go on treks.\
 ⚕️ &nbsp;I'm a Board Member at CovidYODHA. If you need any help in this Corona pandemic, contact me directly or through our [website](covidyodha.site).    
 💬 &nbsp;Feel free to reach out to me for any interesting tech discussion or any advice related to team management and sponsorship.\
 ✉️ &nbsp;You can shoot me an email at garvitsharma555@gmail.com! I'll try to respond as soon as I can.\
